@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('images/formbg101.jpg');
+    color:white;
+    font-family: 'PT Sans', sans-serif;
+}
+form{
+    border:8px solid black;
+    width:400px;
+    margin:130px auto;
+    padding:10px 10px;
+    color:black;
+    
+}
+.submitreset{
+    width:42%;
+    margin: 0px auto;
+}
